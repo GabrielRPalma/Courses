@@ -25,7 +25,6 @@ By the end of the course, participants should:
 | Next Date    | April 13–17, 2026            |
 | Format       | Recorded with a live Q & A   |
 | Time Zone    | Ireland (GMT+1) local time   |
-| Registration | £450                         |
 | Platform     | Zoom                         |
 
 > This is a hybrid course with recorded lectures and practicals and a live online Q and A session
